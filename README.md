@@ -1,6 +1,8 @@
 # r2_diff
 r2_diff function Use r2_diff (r2redux) With (In) R Software
 
+https://www.youtube.com/watch?v=0pkpPBUURqg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
